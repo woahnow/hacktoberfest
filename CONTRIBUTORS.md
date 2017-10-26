@@ -10810,6 +10810,11 @@ Noida
 - Bio: Earhquake enthusiast
 - GitHub:[fushandchups] (https://github.com/fushandchups)
 
+ #### Name: [weird kate](https://github.com/woahnow)
+  - Place: wisconsin, USA
+  - Bio: artist curious about this coding jazz 
+  - GitHub: [woahnow](https://github.com/woahnow)
+
 #### Name: [Francis Venne](https://github.com/NullSilence)
 - Place: Montreal, Canada.
 - Bio: Developer by day, cat lover by night. Canadian tech enthusiast.
